@@ -14,6 +14,7 @@ the monitoring system to differentiate between genuine communication signals and
 been replayed.
 
 Working
+
 In a normal operating condition, the four interconnected systems work seamlessly without any errors.
 They are designed to function together. However, to demonstrate that a load is connected at t=4 seconds, a change in the load can be observed within the system.At this
 stage, the attack mode is not activated, meaning the system is secure and unaffected by any malicious
